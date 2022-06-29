@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Documents"
+		},
+		{
+			"path": "..\\Documents\\C++ programms"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Documents"
+	}
+}
